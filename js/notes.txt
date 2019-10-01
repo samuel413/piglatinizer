@@ -1,0 +1,9 @@
+in order:
+split words by each word
+cut out first letter
+check if the first letter is a vowel
+if it is, add addendum and end word
+if it's not, put it at the end w/ addendum
+(split word, rearrange?)
+repeat for each word
+reminder that var x = undefined
